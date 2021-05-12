@@ -1,6 +1,6 @@
 # Wrangle and Analyze Data
 
-_ Udacity Data Analyst March 2021 - May 2021.
+ Udacity Data Analyst March 2021 - May 2021.
 
 # Wrangle and Analyze Data - WeRateDogs twitter account
 
