@@ -1,2 +1,2 @@
-# DataAnalysis-projects
+# DataAnalytics-projects
 this repository about Data Projects
